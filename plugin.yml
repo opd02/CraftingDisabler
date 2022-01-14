@@ -1,0 +1,7 @@
+name: CraftingRecipeDisabler
+author: opd02
+api-version: 1.13
+version: 0.1.2
+main: me.opd02.cd.CraftingDisablerPlugin
+commands:
+  cd:
